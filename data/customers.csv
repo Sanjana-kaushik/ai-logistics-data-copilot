@@ -1,0 +1,201 @@
+customer_id,customer_name,country,customer_segment,signup_date
+1,"Rodriguez, Figueroa and Sanchez",United States,Enterprise,2024-02-12
+2,"Garcia, Yang and Gardner",Germany,Enterprise,2026-01-13
+3,Johnson-Davis,Canada,Enterprise,2024-07-06
+4,"Guzman, Hoffman and Baldwin",United States,Consumer,2026-07-04
+5,"Barnes, Cole and Ramirez",Mexico,Enterprise,2023-07-21
+6,Wolfe LLC,Mexico,Small Business,2024-09-14
+7,Lewis LLC,United States,Enterprise,2023-12-16
+8,James LLC,United States,Enterprise,2024-12-26
+9,"Baker, Williams and Stevens",Canada,Consumer,2024-01-20
+10,Miller-Carter,Mexico,Enterprise,2026-03-13
+11,"Mcclure, Ward and Lee",Mexico,Enterprise,2023-10-27
+12,Stanley LLC,Mexico,Small Business,2023-11-11
+13,Delacruz Group,Canada,Small Business,2024-09-14
+14,Reid-Diaz,Mexico,Small Business,2025-02-05
+15,Clark-Adams,United States,Enterprise,2026-06-06
+16,"Jones, Reid and Ferguson",India,Small Business,2024-07-25
+17,Ford LLC,Germany,Enterprise,2026-03-31
+18,"Hawkins, Cohen and Cameron",Canada,Small Business,2023-10-05
+19,Underwood LLC,United States,Enterprise,2025-03-25
+20,Jones-Gentry,India,Enterprise,2025-12-08
+21,"Edwards, Rios and Foster",Germany,Small Business,2026-04-04
+22,Thomas-Taylor,Mexico,Small Business,2025-11-29
+23,"Baker, Richards and Hurst",United States,Consumer,2025-03-22
+24,Robinson-Bright,India,Consumer,2025-09-09
+25,Davis-Williams,United States,Small Business,2023-12-28
+26,Burton Ltd,United States,Consumer,2025-04-26
+27,"Brown, James and Ferrell",Germany,Consumer,2025-10-09
+28,Maddox-Valencia,Mexico,Small Business,2023-07-28
+29,"Le, Maldonado and Herrera",Mexico,Enterprise,2024-08-28
+30,"Peterson, Carter and Moore",United States,Enterprise,2023-07-16
+31,"Liu, Baker and Mason",Canada,Small Business,2024-04-13
+32,"Gaines, Harrell and Evans",United States,Enterprise,2026-03-29
+33,"Lynch, Hernandez and Farmer",United States,Small Business,2025-10-25
+34,"Sellers, George and Burns",Germany,Small Business,2023-12-31
+35,Koch-Decker,Germany,Enterprise,2024-10-30
+36,Brown PLC,Germany,Small Business,2023-11-10
+37,Dennis Inc,Canada,Consumer,2025-10-15
+38,Anderson Group,Germany,Consumer,2025-11-11
+39,Baker PLC,United States,Consumer,2025-04-28
+40,Hickman Ltd,Canada,Consumer,2026-06-16
+41,Marquez Group,Canada,Enterprise,2026-05-19
+42,"Brooks, Lam and Hayes",India,Small Business,2024-07-30
+43,Brown Inc,Germany,Consumer,2026-01-09
+44,"Hall, Robinson and Jones",Mexico,Enterprise,2026-03-17
+45,Perez Inc,Germany,Enterprise,2024-12-05
+46,Palmer LLC,Canada,Enterprise,2026-05-15
+47,Lewis-Anderson,Germany,Small Business,2025-12-14
+48,"Kennedy, Mueller and Aguirre",Germany,Enterprise,2024-05-01
+49,Davis Group,Canada,Consumer,2025-01-11
+50,Jenkins-Shields,Germany,Enterprise,2023-10-03
+51,"Valdez, Lucas and Brown",India,Small Business,2024-12-19
+52,Wright and Sons,India,Enterprise,2025-10-21
+53,Taylor-White,Germany,Enterprise,2025-06-28
+54,Baxter Inc,Canada,Consumer,2025-05-29
+55,"Garcia, Pearson and Fernandez",Mexico,Consumer,2023-08-02
+56,House and Sons,Germany,Consumer,2024-03-25
+57,Tucker-Lewis,Mexico,Small Business,2025-03-24
+58,Martin Inc,Mexico,Small Business,2025-03-08
+59,House-Glover,Germany,Enterprise,2024-09-26
+60,Horton-Cross,Canada,Consumer,2025-11-20
+61,"Higgins, Moore and Phillips",India,Enterprise,2023-10-09
+62,"Fitzgerald, Brown and Edwards",United States,Enterprise,2023-09-26
+63,"Woods, Calhoun and Schmidt",Canada,Consumer,2023-10-07
+64,"Miller, Lopez and Larson",Canada,Consumer,2026-05-24
+65,Powell PLC,India,Consumer,2024-07-27
+66,"Wheeler, Harvey and Barnes",United States,Small Business,2026-01-02
+67,"Mills, Donovan and Harris",India,Consumer,2024-11-10
+68,Baker and Sons,India,Consumer,2026-05-19
+69,"Evans, Stewart and Walton",Germany,Consumer,2023-10-31
+70,Ellis PLC,United States,Consumer,2023-12-13
+71,Medina PLC,United States,Consumer,2024-08-25
+72,Mahoney Inc,Mexico,Small Business,2024-07-24
+73,Mitchell-Kim,Germany,Enterprise,2025-10-31
+74,"Turner, Riggs and Roman",Germany,Small Business,2025-10-09
+75,Contreras PLC,Canada,Small Business,2024-10-18
+76,"Garcia, Humphrey and Baker",United States,Consumer,2023-12-24
+77,"Tran, Nelson and Jacobs",Germany,Consumer,2024-12-24
+78,Watts LLC,Canada,Consumer,2025-09-03
+79,King-Odonnell,United States,Consumer,2023-09-27
+80,Walters LLC,Germany,Consumer,2023-09-17
+81,Cook and Sons,Mexico,Consumer,2026-03-26
+82,Martin-Ramos,Canada,Enterprise,2025-05-05
+83,"Smith, Jones and Ware",Germany,Enterprise,2024-02-27
+84,"Johnson, Wood and Tran",Mexico,Consumer,2025-05-08
+85,Williams LLC,United States,Consumer,2023-09-10
+86,Clark-Wright,Germany,Small Business,2023-12-17
+87,Deleon-Henson,United States,Enterprise,2025-04-02
+88,"Brady, Frost and Young",Germany,Small Business,2024-03-19
+89,Keith Inc,Canada,Enterprise,2024-04-14
+90,"Middleton, Patton and Jenkins",Canada,Consumer,2026-05-16
+91,"Cochran, Adams and Cobb",United States,Enterprise,2023-12-25
+92,Brennan-Garrison,India,Enterprise,2024-06-20
+93,Velasquez Group,Mexico,Enterprise,2025-01-04
+94,Hoover-Savage,Canada,Consumer,2024-06-21
+95,Keller Group,India,Consumer,2024-12-01
+96,Lin-Rasmussen,Canada,Small Business,2024-09-16
+97,May-Ross,Mexico,Consumer,2025-10-20
+98,Crosby-Wilson,India,Enterprise,2024-08-19
+99,Carpenter LLC,Mexico,Consumer,2023-09-08
+100,Carlson LLC,Canada,Consumer,2024-11-09
+101,Obrien-Dixon,Germany,Small Business,2025-02-28
+102,"Lee, Williams and Graham",Germany,Small Business,2025-09-25
+103,"Mcdaniel, Bentley and Mclaughlin",Mexico,Small Business,2024-05-12
+104,Reynolds-Rush,United States,Enterprise,2024-12-04
+105,"Edwards, Charles and Cortez",Canada,Enterprise,2024-10-19
+106,"Parker, Ortiz and Powell",Germany,Enterprise,2024-10-12
+107,"Martinez, Fisher and Bentley",Mexico,Consumer,2026-05-28
+108,"Orr, Gilbert and Turner",Canada,Consumer,2025-11-08
+109,Torres and Sons,Canada,Enterprise,2025-05-08
+110,"Lawson, Morris and Ramos",United States,Consumer,2026-05-25
+111,Dixon Ltd,United States,Enterprise,2024-03-30
+112,"Miller, Robertson and Schultz",United States,Enterprise,2024-12-12
+113,Cardenas and Sons,Germany,Enterprise,2026-05-21
+114,Walker-Gonzalez,Mexico,Enterprise,2023-08-17
+115,Sanchez Group,Germany,Consumer,2026-02-14
+116,Gibson Ltd,India,Enterprise,2025-12-21
+117,Higgins Group,Mexico,Enterprise,2025-08-16
+118,Sanchez-Douglas,Mexico,Consumer,2023-07-19
+119,Osborne and Sons,India,Enterprise,2024-04-09
+120,"Holmes, Williams and Wright",India,Small Business,2024-01-15
+121,Anderson-Marshall,Canada,Enterprise,2025-10-13
+122,"Larson, Dodson and Vance",United States,Consumer,2026-02-16
+123,"Mcclain, Simmons and Meadows",India,Small Business,2025-06-02
+124,Manning Group,India,Small Business,2025-06-09
+125,Walton-Larsen,India,Consumer,2024-09-13
+126,"Washington, Allen and Gonzales",United States,Consumer,2024-09-26
+127,Nelson LLC,United States,Enterprise,2025-10-27
+128,Taylor and Sons,India,Consumer,2025-02-25
+129,"Hernandez, Lewis and Perry",Germany,Enterprise,2024-12-06
+130,"Owens, Brown and Wall",Canada,Enterprise,2025-03-07
+131,"Shah, Smith and Gilmore",Canada,Consumer,2025-12-21
+132,Woods-Bender,India,Enterprise,2024-10-16
+133,Castaneda-Ashley,India,Enterprise,2025-04-21
+134,"Adkins, Payne and Morrison",Germany,Small Business,2024-06-17
+135,Robinson-Graham,Canada,Enterprise,2023-08-25
+136,Rogers-Shelton,India,Consumer,2025-03-30
+137,"Martin, Mcdonald and Anderson",United States,Enterprise,2026-03-03
+138,"Johnson, Long and Elliott",Mexico,Enterprise,2023-08-22
+139,Day and Sons,United States,Enterprise,2025-06-27
+140,Williams Group,Canada,Small Business,2024-11-30
+141,Gibson LLC,India,Small Business,2025-02-18
+142,Walton-Decker,Canada,Small Business,2024-08-05
+143,Ruiz Ltd,United States,Enterprise,2025-10-25
+144,Cooke LLC,India,Enterprise,2024-06-23
+145,"Jones, Bernard and Williams",India,Small Business,2023-08-28
+146,Gonzalez Inc,India,Small Business,2026-03-02
+147,Allen Group,India,Consumer,2026-05-15
+148,Elliott and Sons,Mexico,Consumer,2025-07-02
+149,"Scott, Wood and Obrien",India,Enterprise,2024-01-04
+150,Oconnell Inc,Canada,Small Business,2025-12-25
+151,Hickman PLC,Canada,Enterprise,2026-05-28
+152,Sanders-Espinoza,Mexico,Consumer,2023-11-06
+153,"Vaughn, Burton and Garcia",Mexico,Enterprise,2024-10-21
+154,"Burke, Martinez and Riggs",Germany,Enterprise,2023-09-12
+155,Patel-Stanley,United States,Consumer,2023-10-26
+156,"Holland, Smith and Fisher",India,Consumer,2025-08-10
+157,Hamilton LLC,Mexico,Enterprise,2026-03-24
+158,Zimmerman-Graham,United States,Consumer,2025-09-28
+159,"Nelson, Morton and Medina",United States,Enterprise,2025-07-31
+160,Graham-Simon,United States,Consumer,2024-08-30
+161,Christian-Rivas,United States,Consumer,2023-11-22
+162,Keith-Sanchez,Canada,Small Business,2025-07-01
+163,"Bishop, Gray and Johnson",United States,Consumer,2024-11-26
+164,Freeman LLC,Canada,Consumer,2024-08-15
+165,Ramirez-Carlson,Mexico,Enterprise,2024-09-12
+166,"Smith, Vaughan and Miller",Mexico,Enterprise,2025-04-02
+167,Peters-Allen,India,Consumer,2025-07-19
+168,"Joseph, West and Smith",Mexico,Consumer,2024-10-10
+169,Sullivan and Sons,Mexico,Small Business,2024-10-28
+170,"Perkins, Kennedy and Schmidt",Germany,Enterprise,2025-05-01
+171,"Pierce, Bell and Chavez",Germany,Enterprise,2024-10-29
+172,Hall-Griffith,Germany,Small Business,2024-11-12
+173,Newton Ltd,Canada,Consumer,2024-04-23
+174,Robinson Group,Germany,Small Business,2024-09-12
+175,"Lawrence, Wolf and Carlson",Germany,Enterprise,2023-12-14
+176,Phillips LLC,United States,Small Business,2024-04-14
+177,Smith-Ferguson,Mexico,Consumer,2024-09-09
+178,Mccann PLC,United States,Enterprise,2024-10-06
+179,"Raymond, Little and Mullins",Mexico,Enterprise,2023-12-17
+180,Andrews Group,Mexico,Small Business,2025-07-23
+181,Peterson-Sheppard,Canada,Small Business,2024-08-06
+182,Wilson-Jones,United States,Enterprise,2025-08-12
+183,Ray Ltd,Germany,Small Business,2023-10-02
+184,Hernandez PLC,Canada,Small Business,2024-10-24
+185,Mcknight Inc,Mexico,Consumer,2025-11-23
+186,Obrien-Gibbs,Germany,Consumer,2024-06-25
+187,"James, Kerr and Evans",Mexico,Enterprise,2026-01-10
+188,Torres-Oliver,Mexico,Small Business,2026-02-12
+189,"Garcia, Farmer and Garrett",United States,Enterprise,2024-08-25
+190,"Miller, Allen and Arnold",Germany,Enterprise,2024-03-10
+191,Ortiz Ltd,United States,Consumer,2026-01-18
+192,Carter-Hall,Mexico,Enterprise,2024-09-22
+193,"Heath, Jones and Hall",Germany,Small Business,2024-08-24
+194,"Lawrence, Lara and Gonzalez",Mexico,Enterprise,2024-01-05
+195,"Walker, Hernandez and Baker",Germany,Enterprise,2024-02-16
+196,Brown LLC,Germany,Consumer,2026-01-20
+197,"Holloway, Morse and Gonzales",India,Small Business,2025-07-08
+198,"Torres, Powell and Nelson",United States,Enterprise,2025-10-26
+199,Kim-George,India,Small Business,2025-05-12
+200,"Morris, Wright and Davis",United States,Enterprise,2026-05-23

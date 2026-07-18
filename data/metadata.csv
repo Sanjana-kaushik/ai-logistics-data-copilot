@@ -1,0 +1,8 @@
+table_name,column_name,description,data_type
+customers,customer_id,Unique identifier for each customer.,INTEGER
+customers,customer_segment,Business classification of the customer.,TEXT
+orders,order_value,Total monetary value of an order.,DECIMAL
+orders,order_status,Current status of the order.,TEXT
+shipments,delay_days,Number of days a shipment arrived after the promised delivery date.,INTEGER
+shipments,shipment_status,Current delivery status of the shipment.,TEXT
+products,category,Commercial category assigned to the product.,TEXT
