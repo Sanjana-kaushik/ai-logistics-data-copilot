@@ -1,6 +1,8 @@
 from pathlib import Path
 import sqlite3
 
+from datetime import datetime
+
 import pandas as pd
 
 
@@ -52,6 +54,8 @@ def create_database():
             )
 
     print("SQLite database created successfully.")
+    create_query_history_table()
+
 
 
 def run_query(query):
@@ -93,3 +97,87 @@ def run_query(query):
             connection,
         )
     print(result)
+
+def create_query_history_table():
+    """
+    Create a table for approved AI queries.
+    """
+    connection = sqlite3.connect("logistics.db")
+    cursor = connection.cursor()
+
+    cursor.execute(
+        """
+        CREATE TABLE IF NOT EXISTS query_history (
+            history_id INTEGER PRIMARY KEY AUTOINCREMENT,
+            user_question TEXT NOT NULL,
+            generated_sql TEXT NOT NULL,
+            row_count INTEGER NOT NULL,
+            executed_at TEXT NOT NULL
+        )
+        """
+    )
+
+    connection.commit()
+    connection.close()
+
+def save_query_history(
+    user_question: str,
+    generated_sql: str,
+    row_count: int,
+):
+    """
+    Save an approved and successfully executed query.
+    """
+    connection = sqlite3.connect("logistics.db")
+    cursor = connection.cursor()
+
+    cursor.execute(
+        """
+        INSERT INTO query_history (
+            user_question,
+            generated_sql,
+            row_count,
+            executed_at
+        )
+        VALUES (?, ?, ?, ?)
+        """,
+        (
+            user_question,
+            generated_sql,
+            row_count,
+            datetime.now().strftime(
+                "%Y-%m-%d %H:%M:%S"
+            ),
+        ),
+    )
+
+    connection.commit()
+    connection.close()
+
+
+def get_query_history():
+    """
+    Return the 50 most recent approved AI queries.
+    """
+    connection = sqlite3.connect("logistics.db")
+
+    query = """
+        SELECT
+            history_id,
+            executed_at,
+            user_question,
+            generated_sql,
+            row_count
+        FROM query_history
+        ORDER BY history_id DESC
+        LIMIT 50
+    """
+
+    history_dataframe = pd.read_sql_query(
+        query,
+        connection,
+    )
+
+    connection.close()
+
+    return history_dataframe
