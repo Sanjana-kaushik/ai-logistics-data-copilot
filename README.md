@@ -92,8 +92,6 @@ Synthetic data generation
 
 ![AI Generated SQL](screenshots/ai-generated-sql.png)
 
-![AI Business Summary](screenshots/ai-business-summary.png)
-
 ## Run Locally
 
 Clone the repository:
