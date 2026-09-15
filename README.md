@@ -4,6 +4,9 @@ An enterprise-style AI analytics and data-governance
 application built with Python, SQL, Streamlit, Plotly,
 SQLite, Pandas, and the OpenAI API.
 
+## 🚀 Live Demo
+[Launch the AI Logistics Data Copilot] https://ai-logistics-data-copilot-gzxjsg7ctuqcqwvd5rhxbs.streamlit.app/
+
 ## Project Overview
 
 The AI Logistics Data Copilot allows business users to:
